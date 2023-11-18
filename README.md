@@ -7,6 +7,6 @@ Key Features:
 
 ✌️Customizable Timer: Tailor your work and break intervals to suit your unique workflow.
 
-✌️Notifications: Receive timely notifications to seamlessly transition between work and break sessions.
+✌️Notifications: Receive timely notifications to seamlessly transition between work and break sessions (Working on the feature..)
 
 ✌️Productivity Insights: Track your productivity with session logs and statistics.
